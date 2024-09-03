@@ -24,7 +24,7 @@ Here are some key ways in which AI and machine learning integrate with digital t
 - **Optimization and Simulation(最佳化與模擬)**: 
     - AI optimizes processes and improves efficiency by running simulations and testing various scenarios. This helps in refining operations and enhancing performance across different industries.
 
-- **Generative AI Integration(生成式人工智整合)**: 
+- **Generative AI Integration(生成式人工智慧整合)**: 
     - Generative AI can create content such as simulations and models, which can be validated and optimized by digital twins. This integration allows for more dynamic and accurate predictive modeling and simulations.
 
 - **Enhanced Operational Efficiency(提高運作效率)**: 
